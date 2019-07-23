@@ -19,7 +19,7 @@ popd
 Mappings
 
 Filename | Source | Description
--------------------------------
+---------|--------|-------------
 geo_domain_wordnet_eng.tsv|GeoDomainsWordNet|supertype information
 GeoNamesFeatures.tsv|GeoNames-Wordnet|enhanced supertype information
 GeoWN_3.1.dat.txt|Geo-WordNet|Mapping of locations to PWN synsets

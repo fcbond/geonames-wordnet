@@ -1,0 +1,657 @@
+1	first-order administrative division	a primary administrative division of a country, such as a state in the United States	has_hypernym;6	108654360-n;DGM_equivalent	A.ADM1
+2	second-order administrative division	a subdivision of a first-order administrative division	has_hypernym;6	108491826-n;DGM_hyponym	A.ADM2
+3	third-order administrative division	a subdivision of a second-order administrative division	has_hypernym;6	108491826-n;DGM_hyponym	A.ADM3
+4	fourth-order administrative division	a subdivision of a third-order administrative division	has_hypernym;6		A.ADM4
+5	fifth-order administrative division	a subdivision of a fourth-order administrative division	has_hypernym;6		A.ADM5
+6	administrative division	an administrative division of a country, undifferentiated as to administrative level		108491826-n;DGM_equivalent	A.ADMD
+7	leased area	a tract of land leased to another country, usually for military installations		108497294-n;DGM_hyponym	A.LTER
+8	political entity			108359949-n;DGM_equivalent	A.PCL
+9	dependent political entity			108359949-n;DGM_hyponym	A.PCLD
+10	freely associated state			108627316-n;DGM_equivalent	A.PCLF
+11	independent political entity			108359949-n;DGM_equivalent	A.PCLI
+12	section of independent political entity		meronym;11		A.PCLIX
+13	semi-independent political entity			108359949-n;DGM_hyponym	A.PCLS
+14	parish	an ecclesiastical district		108223688-n;DGM_equivalent	A.PRSH
+15	territory			108552138-n;DGM_equivalent	A.TERR
+16	zone			108688247-n;DGM_equivalent	A.ZN
+17	buffer zone	a zone recognized as a buffer between two nations in which military presence is minimal or absent	has_hypernym;16		A.ZNB
+18	seaplane landing area	a place on a waterbody where floatplanes land and take off		103638321-n;DGM_hyponym	H.AIRS
+19	anchorage	an area where vessels may anchor		108639776-n;DGM_equivalent	H.ANCH
+20	bay	a coastal indentation between two capes or headlands, larger than a cove but smaller than a gulf		109215664-n;DGM_equivalent	H.BAY
+21	bays	coastal indentations between two capes or headlands, larger than a cove but smaller than a gulf		109215664-n;DGM_equivalent	H.BAYS
+22	bight	an open body of water forming a slight recession in a coastline		109220239-n;DGM_equivalent	H.BGHT
+23	bank	an elevation, typically located on a shelf, over which the depth of water is relatively shallow but sufficient for most surface navigation		109213565-n;DGM_equivalent	H.BNK
+24	stream bank	a sloping margin of a stream channel which normally confines the stream to its channel on land	meronym;153		H.BNKR
+25	section of bank		meronym;153		H.BNKX
+26	bog	a wetland characterized by peat forming sphagnum moss, sedge, and other acid-water plants		109225943-n;DGM_equivalent	H.BOG
+27	icecap	a dome-shaped mass of glacial ice covering an area of mountain summits or other high lands; smaller than an ice sheet	meronym;62	109308743-n;DGM_equivalent	H.CAPG
+28	channel	the deepest part of a stream, bay, lagoon, or strait, through which the main current flows		109241247-n;DGM_equivalent	H.CHN
+29	lake channel	that part of a lake having water deep enough for navigation between islands, shoals, etc.	has_hypernym;153		H.CHNL
+30	marine channel	that part of a body of water deep enough for navigation through an area otherwise not suitable	has_hypernym;153		H.CHNM
+31	navigation channel	a buoyed channel of sufficient depth for the safe navigation of vessels	has_hypernym;153		H.CHNN
+32	confluence	a place where two or more streams or intermittent streams flow together	meronym;153	108542634-n;DGM_equivalent	H.CNFL
+33	canal	an artificial watercourse	has_hypernym;153	102947212-n;DGM_equivalent	H.CNL
+34	aqueduct	a conduit used to carry water		102732433-n;DGM_equivalent	H.CNLA
+35	canal bend	a conspicuously curved or bent section of a canal	meronym;153		H.CNLB
+36	drainage canal	an artificial waterway carrying water away from a wetland or from drainage ditches	has_hypernym;153		H.CNLD
+37	irrigation canal	a canal which serves as a main conduit for irrigation water	has_hypernym;153		H.CNLI
+38	navigation canal	a watercourse constructed for navigation of vessels	has_hypernym;153		H.CNLN
+39	abandoned canal		has_hypernym;153		H.CNLQ
+40	underground irrigation canal	a gently inclined underground tunnel bringing water for irrigation from aquifers	has_hypernym;153		H.CNLSB
+41	section of canal		meronym;153		H.CNLX
+42	cove	a small coastal indentation, smaller than a bay		109257761-n;DGM_equivalent	H.COVE
+43	tidal creek	a meandering channel in a coastal wetland subject to bi-directional tidal currents	has_hypernym;153	109229409-n;DGM_hyponym	H.CRKT
+44	current	a horizontal flow of water in a given direction with uniform velocity		107406765-n;DGM_equivalent	H.CRNT
+45	cutoff	a channel formed as a result of a stream cutting through a meander neck	has_hypernym;153	103006105-n;DGM_hyponym	H.CUTF
+46	dock	a waterway between two piers, or cut into the land for the berthing of ships		103216828-n;DGM_equivalent	H.DCK
+47	docking basin	a part of a harbor where ships dock		108639058-n;DGM_hyponym	H.DCKB
+48	icecap dome	a comparatively elevated area on an icecap	meronym;62	109308743-n;DGM_equivalent	H.DOMG
+49	icecap depression	a comparatively depressed area on an icecap	meronym;62	109366017-n;DGM_hyponym	H.DPRG
+50	ditch	a small artificial watercourse dug for draining or irrigating the land	has_hypernym;153	103214253-n;DGM_equivalent	H.DTCH
+51	drainage ditch	a ditch which serves to drain the land	has_hypernym;153	103232309-n;DGM_equivalent	H.DTCHD
+52	irrigation ditch	a ditch which serves to distribute irrigation water	has_hypernym;153	103587205-n;DGM_equivalent	H.DTCHI
+53	ditch mouth	an area where a drainage ditch enters a lagoon, lake or bay	meronym;153	109362316-n;DGM_hyponym	H.DTCHM
+54	estuary	a funnel-shaped stream mouth or embayment where fresh water mixes with sea water under tidal influences	meronym;153	109274500-n;DGM_equivalent	H.ESTY
+55	fishing area	a fishing ground, bank or area where fishermen go to catch fish		108497294-n;DGM_hyponym	H.FISH
+56	fjord	a long, narrow, steep-walled, deep-water arm of the sea at high latitudes, usually along mountainous coasts		109281104-n;DGM_equivalent	H.FJD
+57	fjords	long, narrow, steep-walled, deep-water arms of the sea at high latitudes, usually along mountainous coasts		109281104-n;DGM_equivalent	H.FJDS
+58	waterfall	a perpendicular or very steep descent of the water of a stream		109475292-n;DGM_equivalent	H.FLLS
+59	section of waterfall		meronym;58		H.FLLSX
+60	mud flat	a relatively level area of mud either between high and low tide lines, or subject to flooding	has_hypernym;549	108600618-n;DGM_equivalent	H.FLTM
+61	tidal flat	a large flat area of mud or sand attached to the shore and alternately covered and uncovered by the tide	has_hypernym;549	109281411-n;DGM_hyponym	H.FLTT
+62	glacier	a mass of ice, usually at high latitudes or high elevations, with sufficient thickness to flow away from the source area in lobes, tongues, or masses		109289331-n;DGM_equivalent	H.GLCR
+63	gulf	a large recess in the coastline, larger than a bay		109296121-n;DGM_equivalent	H.GULF
+64	geyser	a type of hot spring with intermittent eruptions of jets of hot water and steam		109288635-n;DGM_equivalent	H.GYSR
+65	harbor	a haven or space of deep water so sheltered by the adjacent land as to afford a safe anchorage for ships		108639058-n;DGM_equivalent	H.HBR
+66	section of harbor		meronym;65		H.HBRX
+67	inlet	a narrow waterway extending into the land, or connecting a bay or lagoon with a larger body of water	meronym;153	109313716-n;DGM_equivalent	H.INLT
+68	former inlet	an inlet which has been filled in, or blocked by deposits	meronym;153	109313716-n;DGM_hyponym	H.INLTQ
+69	lake bed	a dried up or drained area of a former lake	has_hypernym;73	109330378-n;DGM_equivalent	H.LBED
+70	lagoon	a shallow coastal waterbody, completely or partly separated from a larger body of water by a barrier island, coral reef or other depositional feature		109328746-n;DGM_equivalent	H.LGN
+71	lagoons	shallow coastal waterbodies, completely or partly separated from a larger body of water by a barrier island, coral reef or other depositional feature		109328746-n;DGM_equivalent	H.LGNS
+72	section of lagoon		has_hypernym;70		H.LGNX
+73	lake	a large inland body of standing water		109328904-n;DGM_equivalent	H.LK
+74	crater lake	a lake in a crater or caldera	has_hypernym;73	109328904-n;DGM_hyponym	H.LKC
+75	intermittent lake		has_hypernym;73	109328904-n;DGM_hyponym	H.LKI
+76	salt lake	an inland body of salt water with no outlet	has_hypernym;73	109328904-n;DGM_hyponym	H.LKN
+77	intermittent salt lake		has_hypernym;73	109328904-n;DGM_hyponym	H.LKNI
+78	oxbow lake	a crescent-shaped lake commonly found adjacent to meandering streams	meronym;153	109382191-n;DGM_hyponym	H.LKO
+79	intermittent oxbow lake		meronym;153	109382191-n;DGM_hyponym	H.LKOI
+80	lakes	large inland bodies of standing water		109328904-n;DGM_equivalent	H.LKS
+81	underground lake	a standing body of water in a cave	has_hypernym;73	109328904-n;DGM_hyponym	H.LKSB
+82	crater lakes	lakes in a crater or caldera	has_hypernym;73	109328904-n;DGM_hyponym	H.LKSC
+83	intermittent lakes		has_hypernym;73	109328904-n;DGM_hyponym	H.LKSI
+84	salt lakes	inland bodies of salt water with no outlet	has_hypernym;73	109328904-n;DGM_hyponym	H.LKSN
+85	intermittent salt lakes		has_hypernym;73	109328904-n;DGM_hyponym	H.LKSNI
+86	section of lake		meronym;73		H.LKX
+87	salt evaporation ponds	diked salt ponds used in the production of solar evaporated salt		109397391-n;DGM_hyponym	H.MFGN
+88	mangrove swamp	a tropical tidal mud flat characterized by mangrove vegetation		109452395-n;DGM_hyponym	H.MGV
+89	moor	an area of open ground overlaid with wet peaty soils		109358751-n;DGM_equivalent	H.MOOR
+90	marsh(es)	a wetland dominated by grass-like vegetation		109347779-n;DGM_equivalent	H.MRSH
+91	salt marsh	a flat area, subject to periodic salt water inundation, dominated by grassy salt-tolerant plants		109420794-n;DGM_hyponym	H.MRSHN
+92	narrows	a navigable narrow part of a bay, strait, river, etc.		109365863-n;DGM_equivalent	H.NRWS
+93	ocean	one of the major divisions of the vast expanse of salt water covering part of the earth		109376198-n;DGM_equivalent	H.OCN
+94	overfalls	an area of breaking waves caused by the meeting of currents or by waves moving against the current		109475292-n;DGM_equivalent	H.OVF
+95	pond	a small standing waterbody		109397391-n;DGM_equivalent	H.PND
+96	intermittent pond		has_hypernym;95	109397391-n;DGM_hyponym	H.PNDI
+97	salt pond	a small standing body of salt water often in a marsh or swamp, usually along a seacoast	has_hypernym;95	109397391-n;DGM_hyponym	H.PNDN
+98	intermittent salt pond		has_hypernym;95	109397391-n;DGM_hyponym	H.PNDNI
+99	ponds	small standing waterbodies		109397391-n;DGM_equivalent	H.PNDS
+100	fishponds	ponds or enclosures in which fish are kept or raised	has_hypernym;95	109280913-n;DGM_hyponym	H.PNDSF
+101	intermittent ponds		has_hypernym;95	109397391-n;DGM_hyponym	H.PNDSI
+102	salt ponds	small standing bodies of salt water often in a marsh or swamp, usually along a seacoast	has_hypernym;95	109397391-n;DGM_hyponym	H.PNDSN
+103	pool	a small and comparatively still, deep part of a larger body of water such as a stream or harbor; or a small body of standing water	has_hypernym;95	109397607-n;DGM_equivalent	H.POOL
+104	intermittent pool		has_hypernym;95	103982060-n;DGM_hyponym	H.POOLI
+105	reach	a straight section of a navigable stream or channel between two bends	meronym;153		H.RCH
+106	icecap ridge	a linear elevation on an icecap	meronym;62		H.RDGG
+107	roadstead	an open anchorage affording less protection than a harbor		108640300-n;DGM_equivalent	H.RDST
+108	reef	a surface-navigation hazard composed of consolidated material		109406793-n;DGM_equivalent	H.RF
+109	coral reef	a surface-navigation hazard composed of coral		109256479-n;DGM_equivalent	H.RFC
+110	section of reef		meronym;180		H.RFX
+111	rapids	a turbulent section of a stream associated with a steep, irregular stream bed	meronym;153	109405396-n;DGM_equivalent	H.RPDS
+112	reservoir	an artificial pond or lake	has_hypernym;73	104078747-n;DGM_equivalent	H.RSV
+113	intermittent reservoir		has_hypernym;112	104078747-n;DGM_hyponym	H.RSVI
+114	water tank	a contained pool or tank of water at, below, or above ground level		103035715-n;DGM_equivalent	H.RSVT
+115	ravine	a small, narrow, deep, steep-sided stream channel, smaller than a gorge		109405787-n;DGM_equivalent	H.RVN
+116	sabkha	a salt flat or salt encrusted plain subject to periodic inundation from flooding or high tides	has_hypernym;549	109420550-n;DGM_equivalent	H.SBKH
+117	sound	a long arm of the sea forming a channel between the mainland and an island or islands; or connecting two larger bodies of water	meronym;118	109446115-n;DGM_equivalent	H.SD
+118	sea	a large body of salt water more or less confined by continuous land or chains of islands forming a subdivision of an ocean		109426788-n;DGM_equivalent	H.SEA
+119	shoal	a surface-navigation hazard composed of unconsolidated material		109433312-n;DGM_equivalent	H.SHOL
+120	sill	the low part of an underwater gap or saddle separating basins, including a similar feature at the mouth of a fjord		109435232-n;DGM_equivalent	H.SILL
+121	spring	a place where ground water flows naturally out of the ground		109443453-n;DGM_equivalent	H.SPNG
+122	sulphur spring	a place where sulphur ground water flows naturally out of the ground	has_hypernym;121	109443453-n;DGM_hyponym	H.SPNS
+123	hot spring	a place where hot ground water flows naturally out of the ground	has_hypernym;121	109305898-n;DGM_hyponym	H.SPNT
+124	stream	a body of running water moving to a lower level in a channel on land		109448361-n;DGM_equivalent	H.STM
+125	anabranch	a diverging branch flowing out of a main stream and rejoining it downstream	meronym;153	109228324-n;DGM_hyponym	H.STMA
+126	stream bend	a conspicuously curved or bent segment of a stream	meronym;153	102829696-n;DGM_hyponym	H.STMB
+127	canalized stream	a stream that has been substantially ditched, diked, or straightened	has_hypernym;153	109448361-n;DGM_hyponym	H.STMC
+128	distributary(-ies)	a branch which flows away from the main stream, as in a delta or irrigation canal	has_hypernym;153	109267602-n;DGM_equivalent	H.STMD
+129	headwaters	the source and upper part of a stream, including the upper drainage basin	meronym;153	108508629-n;DGM_equivalent	H.STMH
+130	intermittent stream		has_hypernym;153	109448361-n;DGM_hyponym	H.STMI
+131	section of intermittent stream		meronym;153		H.STMIX
+132	stream mouth	a place where a stream discharges into a lagoon, lake, or the sea	meronym;153	109362316-n;DGM_hyponym	H.STMM
+133	abandoned watercourse	a former stream or distributary no longer carrying flowing water, but still evident due to lakes, wetland, topographic or vegetation patterns	has_hypernym;153	109448361-n;DGM_hyponym	H.STMQ
+134	streams	bodies of running water moving to a lower level in a channel on land	has_hypernym;153	109448361-n;DGM_hyponym	H.STMS
+135	lost river	a surface stream that disappears into an underground channel, or dries up in an arid area	has_hypernym;153	109448361-n;DGM_hyponym	H.STMSB
+136	section of stream		has_hypernym;153		H.STMX
+137	strait	a relatively narrow waterway, usually narrower and less extensive than a sound, connecting two larger bodies of water		109446115-n;DGM_equivalent	H.STRT
+138	swamp	a wetland dominated by tree vegetation		109452395-n;DGM_equivalent	H.SWMP
+139	irrigation system	a network of ditches and one or more of the following elements: water supply, reservoir, canal, pump, well, drain, etc.		101057631-n;DGM_equivalent	H.SYSI
+140	canal tunnel	a tunnel through which a canal passes		104497962-n;DGM_hyponym	H.TNLC
+141	wadi	a valley or ravine, bounded by relatively steep banks, which in the rainy season becomes a watercourse; found primarily in North Africa and the Middle East	has_hypernym;153	109474010-n;DGM_equivalent	H.WAD
+142	wadi bend	a conspicuously curved or bent segment of a wadi	meronym;142		H.WADB
+143	wadi junction	a place where two or more wadies join	meronym;142	103605722-n;DGM_hyponym	H.WADJ
+144	wadi mouth	the lower terminus of a wadi where it widens into an adjoining floodplain, depression, or waterbody	meronym;142		H.WADM
+145	wadies	valleys or ravines, bounded by relatively steep banks, which in the rainy season become watercourses; found primarily in North Africa and the Middle East	has_hypernym;153	109474010-n;DGM_equivalent	H.WADS
+146	section of wadi		meronym;142		H.WADX
+147	whirlpool	a turbulent, rotating movement of water in a stream		107433145-n;DGM_equivalent	H.WHRL
+148	well	a cylindrical hole, pit, or tunnel drilled or dug down to a depth from which water, oil, or gas can be pumped or brought to the surface		104572344-n;DGM_equivalent	H.WLL
+149	abandoned well		has_hypernym;149	104572344-n;DGM_hyponym	H.WLLQ
+150	wells	cylindrical holes, pits, or tunnels drilled or dug down to a depth from which water, oil, or gas can be pumped or brought to the surface		104572344-n;DGM_equivalent	H.WLLS
+151	wetland	an area subject to inundation, usually characterized by bog, marsh, or swamp vegetation		109477890-n;DGM_equivalent	H.WTLD
+152	intermittent wetland		has_hypernym;153	109477890-n;DGM_hyponym	H.WTLDI
+153	watercourse	a natural, well-defined channel produced by flowing water, or an artificial channel designed to carry flowing water		109475179-n;DGM_equivalent	H.WTRC
+154	waterhole	a natural hole, hollow, or small depression that contains water, used by man and animals, especially in arid areas		109366017-n;DGM_hyponym	H.WTRH
+155	agricultural colony	a tract of land set aside for agricultural settlement	has_hypernym;15	101104406-n;DGM_equivalent	L.AGRC
+156	amusement park	Amusement Park are theme parks, adventure parks offering entertainment, similar to funfairs but with a fix location		108494231-n;DGM_equivalent	L.AMUS
+157	area	a tract of land without homogeneous character or boundaries		108497294-n;DGM_equivalent	L.AREA
+158	drainage basin	an area drained by a stream	meronym;153	108518940-n;DGM_equivalent	L.BSND
+159	petroleum basin	an area underlain by an oil-rich structural basin	has_hypernym;15	109215437-n;DGM_hyponym	L.BSNP
+160	battlefield	a site of a land battle of historical importance		108506641-n;DGM_equivalent	L.BTL
+161	clearing	an area in a forest with trees removed		108541288-n;DGM_equivalent	L.CLG
+162	common	a park or pasture for community use	has_hypernym;15	108615374-n;DGM_equivalent	L.CMN
+163	concession area	a lease of land by a government for economic development, e.g., mining, forestry	has_hypernym;15	108497294-n;DGM_hyponym	L.CNS
+164	coalfield	a region in which coal deposits of possible economic value occur	has_hypernym;15	108659663-n;DGM_equivalent	L.COLF
+165	continent	continent : Europe, Africa, Asia, North America, South America, Oceania,Antarctica		109254614-n;DGM_equivalent	L.CONT
+166	coast	a zone of variable width straddling the shoreline		109428293-n;DGM_equivalent	L.CST
+167	business center	a place where a number of businesses are located	has_hypernym;210	102993546-n;DGM_hyponym	L.CTRB
+168	housing development	a tract of land on which many houses of similar design are built according to a development plan	has_hypernym;210	108549480-n;DGM_equivalent	L.DEVH
+169	field	an open as opposed to wooded area		108569998-n;DGM_equivalent	L.FLD
+170	irrigated field	a tract of level or terraced land which is irrigated	has_hypernym;169	108569998-n;DGM_hyponym	L.FLDI
+171	gasfield	an area containing a subterranean store of natural gas of economic value		108659759-n;DGM_equivalent	L.GASF
+172	grazing area	an area of grasses and shrubs used for grazing	has_hypernym;157	108616050-n;DGM_equivalent	L.GRAZ
+173	gravel area	an area covered with gravel	has_hypernym;157	108497294-n;DGM_hyponym	L.GVL
+174	industrial area	an area characterized by industrial activity	has_hypernym;157	108497294-n;DGM_hyponym	L.INDS
+175	arctic land	a tract of land in the Arctic	has_hypernym;195	108496477-n;DGM_equivalent	L.LAND
+176	locality	a minor area or place of unspecified or mixed character and indefinite boundaries		108641113-n;DGM_equivalent	L.LCTY
+177	military base	a place used by an army or other armed service for storing arms and supplies, and for accommodating and training troops, a base from which operations can be initiated		102798290-n;DGM_equivalent	L.MILB
+178	mining area	an area of mine sites where minerals and ores are extracted	has_hypernym;157	100922327-n;DGM_equivalent	L.MNA
+179	maneuver area	a tract of land where military field exercises are carried out	has_hypernym;157	108497294-n;DGM_hyponym	L.MVA
+180	naval base	an area used to store supplies, provide barracks for troops and naval personnel, a port for naval vessels, and from which operations are initiated		102798290-n;DGM_hyponym	L.NVB
+181	oasis(-es)	an area in a desert made productive by the availability of water		108506496-n;DGM_equivalent	L.OAS
+182	oilfield	an area containing a subterranean store of petroleum of economic value		108659861-n;DGM_equivalent	L.OILF
+183	peat cutting area	an area where peat is harvested	has_hypernym;157	108497294-n;DGM_hyponym	L.PEAT
+184	park	an area, often of forested land, maintained as a place of beauty, or for recreation		108615149-n;DGM_equivalent	L.PRK
+185	port	a place provided with terminal and transfer facilities for loading and discharging waterborne cargo or passengers, usually located in a harbor		108633957-n;DGM_equivalent	L.PRT
+186	quicksand	an area where loose sand with water moving through it may become unstable when heavy objects are placed at the surface, causing them to sink	has_hypernym;157	109402944-n;DGM_equivalent	L.QCKS
+187	reserve	a tract of public land reserved for future use or restricted as to use		108587174-n;DGM_equivalent	L.RES
+188	agricultural reserve	a tract of land reserved for agricultural reclamation and/or development	has_hypernym;187		L.RESA
+189	forest reserve	a forested area set aside for preservation or controlled use	has_hypernym;187		L.RESF
+190	hunting reserve	a tract of land used primarily for hunting	has_hypernym;187		L.RESH
+191	nature reserve	an area reserved for the maintenance of a natural habitat	has_hypernym;187		L.RESN
+192	palm tree reserve	an area of palm trees where use is controlled	has_hypernym;187		L.RESP
+193	reservation	a tract of land set aside for aboriginal, tribal, or native populations	has_hypernym;187	108587174-n;DGM_hyponym	L.RESV
+194	wildlife reserve	a tract of public land reserved for the preservation of wildlife	has_hypernym;187		L.RESW
+195	region	an area distinguished by one or more observable physical or cultural characteristics		108630985-n;DGM_equivalent	L.RGN
+196	economic region	a region of a country established for economic development or for statistical purposes	has_hypernym;195	108630985-n;DGM_hyponym	L.RGNE
+197	lake region	a tract of land distinguished by numerous lakes	has_hypernym;187		L.RGNL
+198	artillery range	a tract of land used for artillery firing practice	has_hypernym;157	104053218-n;DGM_hyponym	L.RNGA
+199	salt area	a shallow basin or flat where salt accumulates after periodic inundation	has_hypernym;157	109281411-n;DGM_hyponym	L.SALT
+200	snowfield	an area of permanent snow and ice forming the accumulation area of a glacier		109439032-n;DGM_equivalent	L.SNOW
+201	tribal area	a tract of land used by nomadic or other tribes	has_hypernym;157		L.TRB
+202	populated place	a city, town, village, or other agglomeration of buildings where people live and work		108675967-n;DGM_equivalent	P.PPL
+203	seat of a first-order administrative division	seat of a first-order administrative division (PPLC takes precedence over PPLA)	has_hypernym;202	108518505-n;DGM_equivalent	P.PPLA
+204	seat of a second-order administrative division		has_hypernym;202	108518505-n;DGM_equivalent	P.PPLA2
+205	seat of a third-order administrative division		has_hypernym;202	108518505-n;DGM_equivalent	P.PPLA3
+206	seat of a fourth-order administrative division		has_hypernym;202	108518505-n;DGM_equivalent	P.PPLA4
+207	capital of a political entity		has_hypernym;202	108518505-n;DGM_equivalent	P.PPLC
+208	farm village	a populated place where the population is largely engaged in agricultural activities	has_hypernym;202	108672738-n;DGM_equivalent	P.PPLF
+209	seat of government of a political entity		has_hypernym;202	108518505-n;DGM_equivalent	P.PPLG
+210	populated locality	an area similar to a locality but with a small group of dwellings or other buildings	has_hypernym;202	108675967-n;DGM_equivalent	P.PPLL
+211	abandoned populated place		has_hypernym;211	108675967-n;DGM_hyponym	P.PPLQ
+212	religious populated place	a populated place whose population is largely engaged in religious occupations	has_hypernym;211	108675967-n;DGM_hyponym	P.PPLR
+213	populated places	cities, towns, villages, or other agglomerations of buildings where people live and work	has_hypernym;202	108675967-n;DGM_equivalent	P.PPLS
+214	destroyed populated place	a village, town or city destroyed by a natural disaster, or by war	has_hypernym;211	108675967-n;DGM_hyponym	P.PPLW
+215	section of populated place		has_hypernym;211		P.PPLX
+216	israeli settlement		has_hypernym;211	108056873-n;DGM_equivalent	P.STLMT
+217	causeway	a raised roadway across wet ground or shallow water	has_hypernym;221	102986920-n;DGM_equivalent	R.CSWY
+218	oil pipeline	a pipeline used for transporting oil		103844459-n;DGM_equivalent	R.OILP
+219	promenade	a place for public walking, usually along a beach front	has_hypernym;221	104010205-n;DGM_equivalent	R.PRMN
+220	portage	a place where boats, goods, etc., are carried overland between navigable waters	has_hypernym;221	103985588-n;DGM_equivalent	R.PTGE
+221	road	an open way with improved surface for transportation of animals, people and vehicles		104096066-n;DGM_equivalent	R.RD
+222	ancient road	the remains of a road used by ancient cultures	has_hypernym;221	104096066-n;DGM_hyponym	R.RDA
+223	road bend	a conspicuously curved or bent section of a road	has_hypernym;221	102829696-n;DGM_hyponym	R.RDB
+224	road cut	an excavation cut through a hill or ridge for a road	meronym;221	103152619-n;DGM_hyponym	R.RDCUT
+225	road junction	a place where two or more roads join	meronym;221	103581125-n;DGM_equivalent	R.RDJCT
+226	railroad junction	a place where two or more railroad tracks join	meronym;227	104048979-n;DGM_equivalent	R.RJCT
+227	railroad	a permanent twin steel-rail track on which freight and passenger cars move long distances		104048075-n;DGM_equivalent	R.RR
+228	abandoned railroad		has_hypernym;227	104048075-n;DGM_hyponym	R.RRQ
+229	caravan route	the route taken by caravans	has_hypernym;221	108616311-n;DGM_hyponym	R.RTE
+230	railroad yard	a system of tracks used for the making up of trains, and switching and storing freight cars	meronym;227		R.RYD
+231	street	a paved urban thoroughfare	has_hypernym;221	104334599-n;DGM_equivalent	R.ST
+232	stock route	a route taken by livestock herds	has_hypernym;221	108616311-n;DGM_hyponym	R.STKR
+233	tunnel	a subterranean passageway for transportation		104497962-n;DGM_equivalent	R.TNL
+234	natural tunnel	a cave that is open at both ends	has_hypernym;233	109238926-n;DGM_hyponym	R.TNLN
+235	road tunnel	a tunnel through which a road passes	has_hypernym;233	104497962-n;DGM_hyponym	R.TNLRD
+236	railroad tunnel	a tunnel through which a railroad passes	has_hypernym;233	104048441-n;DGM_hyponym	R.TNLRR
+237	tunnels	subterranean passageways for transportation		104497962-n;DGM_equivalent	R.TNLS
+238	trail	a path, track, or route used by pedestrians, animals, or off-road vehicles	has_hypernym;221	104466613-n;DGM_equivalent	R.TRL
+239	administrative facility	a government building	has_hypernym;307	103315023-n;DGM_hyponym	S.ADMF
+240	agricultural facility	a building and/or tract of land used for improving agriculture	has_hypernym;307	103315023-n;DGM_hyponym	S.AGRF
+241	airbase	an area used to store supplies, provide barracks for air force personnel, hangars and runways for aircraft, and from which operations are initiated		102685585-n;DGM_equivalent	S.AIRB
+242	airfield	a place on land where aircraft land and take off; no facilities provided for the commercial handling of passengers and cargo		102687992-n;DGM_equivalent	S.AIRF
+243	heliport	a place where helicopters land and take off		103512830-n;DGM_equivalent	S.AIRH
+244	airport	a place where aircraft regularly land and take off, with runways, navigational aids, and major facilities for the commercial handling of passengers and cargo		102692232-n;DGM_equivalent	S.AIRP
+245	abandoned airfield		has_hypernym;242	102687992-n;DGM_hyponym	S.AIRQ
+246	amphitheater	an oval or circular structure with rising tiers of seats about a stage or open space		102704949-n;DGM_equivalent	S.AMTH
+247	ancient site	a place where archeological remains, old structures, or cultural artifacts are located		108550076-n;DGM_equivalent	S.ANS
+248	aquaculture facility	facility or area for the cultivation of aquatic animals and plants, especially fish, shellfish, and seaweed, in natural or controlled marine or freshwater environments; underwater agriculture	has_hypernym;307		S.AQC
+249	arch	a natural or man-made structure in the form of an arch		113886133-n;DGM_equivalent	S.ARCH
+250	astronomical station	a point on the earth whose position has been determined by observations of celestial bodies	has_hypernym;176	104306080-n;DGM_hyponym	S.ASTR
+251	asylum	a facility where the insane are cared for and protected	has_hypernym;307	103746574-n;DGM_equivalent	S.ASYL
+252	athletic field	a tract of land used for playing team sports, and athletic track and field events	has_hypernym;307	108570758-n;DGM_equivalent	S.ATHF
+253	automatic teller machine	An unattended electronic machine in a public place, connected to a data system and related equipment and activated by a bank customer to obtain cash withdrawals and other banking services. 	meronym;254	102977058-n;DGM_equivalent	S.ATM
+254	bank	A business establishment in which money is kept for saving or commercial purposes or is invested, supplied for loans, or exchanged. 		108420278-n;DGM_equivalent	S.BANK
+255	beacon	a fixed artificial navigation mark		102814860-n;DGM_equivalent	S.BCN
+256	bridge	a structure erected across an obstacle such as a stream, road, etc., in order to carry roads, railroads, and pedestrians across		102898711-n;DGM_equivalent	S.BDG
+257	ruined bridge	a destroyed or decayed bridge which is no longer functional	has_hypernym;256	102898711-n;DGM_hyponym	S.BDGQ
+258	building	a structure built for permanent use, as a house, factory, etc.		102913152-n;DGM_equivalent	S.BLDG
+259	office building	commercial building where business and/or services are conducted	has_hypernym;258	102913152-n;DGM_hyponym	S.BLDO
+260	boundary marker	a fixture marking a point along a boundary		108512259-n;DGM_equivalent	S.BP
+261	barracks	a building for lodging military personnel		102794779-n;DGM_equivalent	S.BRKS
+262	breakwater	a structure erected to break the force of waves at the entrance to a harbor or port		102894605-n;DGM_equivalent	S.BRKW
+263	baling station	a facility for baling agricultural products		103315023-n;DGM_hyponym	S.BSTN
+264	boatyard	a waterside facility for servicing, repairing, and building small vessels		102859955-n;DGM_equivalent	S.BTYD
+265	burial cave	a cave used for human burials		109238926-n;DGM_hyponym	S.BUR
+266	bus station	a facility comprising ticket office, platforms, etc. for loading and unloading passengers 	has_hypernym;307	102926288-n;DGM_equivalent	S.BUSTN
+267	bus stop	a place lacking station facilities	has_hypernym;307	108517676-n;DGM_equivalent	S.BUSTP
+268	cairn	a heap of stones erected as a landmark or for other purposes		107273802-n;DGM_equivalent	S.CARN
+269	cave	an underground passageway or chamber, or cavity on the side of a cliff		109238926-n;DGM_equivalent	S.CAVE
+270	church	a building for public Christian worship		103028079-n;DGM_equivalent	S.CH
+271	camp	a site occupied by tents, huts, or other shelters for temporary use		102945161-n;DGM_equivalent	S.CMP
+272	logging camp	a camp used by loggers	has_hypernym;271	102945161-n;DGM_hyponym	S.CMPL
+273	labor camp	a camp used by migrant or temporary laborers	has_hypernym;271	103630849-n;DGM_equivalent	S.CMPLA
+274	mining camp	a camp used by miners	has_hypernym;271	102945161-n;DGM_hyponym	S.CMPMN
+275	oil camp	a camp used by oilfield workers	has_hypernym;271	102945161-n;DGM_hyponym	S.CMPO
+276	abandoned camp		has_hypernym;271	102945161-n;DGM_hyponym	S.CMPQ
+277	refugee camp	a camp used by refugees	has_hypernym;271	102945813-n;DGM_hyponym	S.CMPRF
+278	cemetery	a burial place or ground		108521623-n;DGM_equivalent	S.CMTY
+279	communication center	a facility, including buildings, antennae, towers and electronic equipment for receiving and transmitting information	has_hypernym;258	103315023-n;DGM_hyponym	S.COMC
+280	corral	a pen or enclosure for confining or capturing animals		103124590-n;DGM_equivalent	S.CRRL
+281	casino	a building used for entertainment, especially gambling	has_hypernym;258	102977936-n;DGM_equivalent	S.CSNO
+282	castle	a large fortified building or set of buildings	has_hypernym;258	102980441-n;DGM_equivalent	S.CSTL
+283	customs house	a building in a port where customs and duties are paid, and where vessels are entered and cleared	has_hypernym;258	113317002-n;DGM_equivalent	S.CSTM
+284	courthouse	a building in which courts of law are held	has_hypernym;258	103121298-n;DGM_equivalent	S.CTHSE
+285	atomic center	a facility where atomic research is carried out	has_hypernym;258	103315023-n;DGM_hyponym	S.CTRA
+286	community center	a facility for community recreation and other activities	has_hypernym;258	103078506-n;DGM_equivalent	S.CTRCM
+287	facility center	a place where more than one facility is situated	has_hypernym;258	103315023-n;DGM_equivalent	S.CTRF
+288	medical center	a complex of health care buildings including two or more of the following: hospital, medical school, clinic, pharmacy, doctor's offices, etc.	has_hypernym;258	108571139-n;DGM_equivalent	S.CTRM
+289	religious center	a facility where more than one religious activity is carried out, e.g., retreat, school, monastery, worship	has_hypernym;258	103315023-n;DGM_hyponym	S.CTRR
+290	space center	a facility for launching, tracking, or controlling satellites and space vehicles	has_hypernym;258	103315023-n;DGM_hyponym	S.CTRS
+291	convent	a building where a community of nuns lives in seclusion	has_hypernym;258	103099454-n;DGM_equivalent	S.CVNT
+292	dam	a barrier constructed across a stream to impound water		103160309-n;DGM_equivalent	S.DAM
+293	ruined dam	a destroyed or decayed dam which is no longer functional	has_hypernym;292	103160309-n;DGM_hyponym	S.DAMQ
+294	sub-surface dam	a dam put down to bedrock in a sand river	has_hypernym;292	103160309-n;DGM_hyponym	S.DAMSB
+295	dairy	a facility for the processing, sale and distribution of milk or milk products	has_hypernym;258	103159535-n;DGM_equivalent	S.DARY
+296	dry dock	a dock providing support for a vessel, and means for removing the water so that the bottom of the vessel can be exposed	has_hypernym;297	103251533-n;DGM_equivalent	S.DCKD
+297	dockyard	a facility for servicing, building, or repairing ships		108640392-n;DGM_equivalent	S.DCKY
+298	dike	an earth or stone embankment usually constructed for flood or stream control		103160309-n;DGM_equivalent	S.DIKE
+299	diplomatic facility	office, residence, or facility of a foreign government, which may include an embassy, consulate, chancery, office of charge d?affaires, or other diplomatic, economic, military, or cultural mission	has_hypernym;258		S.DIP
+300	fuel depot	an area where fuel is stored		104329190-n;DGM_equivalent	S.DPOF
+301	estate	a large commercialized agricultural landholding with associated buildings and other facilities		113246662-n;DGM_equivalent	S.EST
+302	oil palm plantation	an estate specializing in the cultivation of oil palm trees		113252513-n;DGM_hyponym	S.ESTO
+303	rubber plantation	an estate which specializes in growing and tapping rubber trees		113252513-n;DGM_hyponym	S.ESTR
+304	sugar plantation	an estate that specializes in growing sugar cane		113252513-n;DGM_hyponym	S.ESTSG
+305	tea plantation	an estate which specializes in growing tea bushes		113252513-n;DGM_equivalent	S.ESTT
+306	section of estate		has_hypernym;301		S.ESTX
+307	facility	a building or buildings housing a center, institute, foundation, hospital, prison, mission, courthouse, etc.		103315023-n;DGM_equivalent	S.FCL
+308	foundry	a building or works where metal casting is carried out		103387653-n;DGM_equivalent	S.FNDY
+309	farm	a tract of land with associated buildings devoted to agriculture	has_hypernym;258	103322099-n;DGM_equivalent	S.FRM
+310	abandoned farm		has_hypernym;309	103322099-n;DGM_hyponym	S.FRMQ
+311	farms	tracts of land with associated buildings devoted to agriculture	has_hypernym;258	103322099-n;DGM_equivalent	S.FRMS
+312	farmstead	the buildings and adjacent service areas of a farm	has_hypernym;258	103323096-n;DGM_equivalent	S.FRMT
+313	fort	a defensive structure or earthworks	has_hypernym;258	103386011-n;DGM_equivalent	S.FT
+314	ferry	a boat or other floating conveyance and terminal facilities regularly used to transport people and vehicles across a waterbody		103329663-n;DGM_equivalent	S.FY
+315	gate	a controlled access entrance or exit		103427296-n;DGM_equivalent	S.GATE
+316	garden	an enclosure for displaying selected plant or animal life		103417345-n;DGM_equivalent	S.GDN
+317	ghat	a set of steps leading to a river, which are of religious significance, and at their base is usually a platform for bathing		103436075-n;DGM_equivalent	S.GHAT
+318	guest house	a house used to provide lodging for paying guests	has_hypernym;258	103465605-n;DGM_equivalent	S.GHSE
+319	gas-oil separator plant	a facility for separating gas from oil		103956922-n;DGM_hyponym	S.GOSP
+320	local government office	a facility housing local governmental offices, usually a city, town, or village hall	has_hypernym;258		S.GOVL
+321	grave	a burial site		103455033-n;DGM_equivalent	S.GRVE
+322	hermitage	a secluded residence, usually for religious sects		103515934-n;DGM_equivalent	S.HERM
+323	halting place	a place where caravans stop for rest		101056411-n;DGM_hyponym	S.HLT
+324	house	a building used as a human habitation	has_hypernym;258	103544360-n;DGM_equivalent	S.HSE
+325	country house	a large house, mansion, or chateau, on a large estate	has_hypernym;258	103118969-n;DGM_equivalent	S.HSEC
+326	hospital	a building in which sick or injured, especially those confined to bed, are medically treated	has_hypernym;258	103540595-n;DGM_equivalent	S.HSP
+327	clinic	a medical facility associated with a hospital for outpatients	has_hypernym;258	103043274-n;DGM_equivalent	S.HSPC
+328	dispensary	a building where medical or dental aid is dispensed	has_hypernym;258	103210552-n;DGM_equivalent	S.HSPD
+329	leprosarium	an asylum or hospital for lepers	has_hypernym;258	103540595-n;DGM_hyponym	S.HSPL
+330	historical site	a place of historical importance	has_hypernym;176	108550076-n;DGM_equivalent	S.HSTS
+331	hotel	a building providing lodging and/or meals for the public	has_hypernym;258	103542333-n;DGM_equivalent	S.HTL
+332	hut	a small primitive house	has_hypernym;258	103547054-n;DGM_equivalent	S.HUT
+333	huts	small primitive houses	has_hypernym;258	103547054-n;DGM_equivalent	S.HUTS
+334	military installation	a facility for use of and control by armed forces	has_hypernym;258	103763133-n;DGM_equivalent	S.INSM
+335	research institute	a facility where research is carried out	has_hypernym;258	104077889-n;DGM_equivalent	S.ITTR
+336	jetty	a structure built out into the water at a river mouth or harbor entrance to regulate currents and silting		102894605-n;DGM_equivalent	S.JTY
+337	landing	a place where boats receive or discharge passengers and freight, but lacking most port facilities		103638321-n;DGM_equivalent	S.LDNG
+338	leper colony	a settled area inhabited by lepers in relative isolation		108514233-n;DGM_hyponym	S.LEPC
+339	library	A place in which information resources such as books are kept for reading, reference, or lending.		103661043-n;DGM_equivalent	S.LIBR
+340	landfill	a place for trash and garbage disposal in which the waste is buried between layers of earth to build up low-lying land		103436075-n;DGM_hyponym	S.LNDF
+341	lock	a basin in a waterway with gates at each end by means of which vessels are passed from one water level to another		103683079-n;DGM_equivalent	S.LOCK
+342	lighthouse	a distinctive structure exhibiting a major navigation light	has_hypernym;258	102814860-n;DGM_equivalent	S.LTHSE
+343	mall	A large, often enclosed shopping complex containing various stores, businesses, and restaurants usually accessible by common passageways.	has_hypernym;258	103965456-n;DGM_equivalent	S.MALL
+344	marina	a harbor facility for small boats, yachts, etc.	has_hypernym;185	103721590-n;DGM_equivalent	S.MAR
+345	factory	one or more buildings where goods are manufactured, processed or fabricated		103316406-n;DGM_equivalent	S.MFG
+346	brewery	one or more buildings where beer is brewed	has_hypernym;345	102897237-n;DGM_equivalent	S.MFGB
+347	cannery	a building where food items are canned	has_hypernym;345	102950018-n;DGM_equivalent	S.MFGC
+348	copper works	a facility for processing copper ore	has_hypernym;345	103315023-n;DGM_hyponym	S.MFGCU
+349	limekiln	a furnace in which limestone is reduced to lime	has_hypernym;345	103669534-n;DGM_equivalent	S.MFGLM
+350	munitions plant	a factory where ammunition is made	has_hypernym;345	103956922-n;DGM_hyponym	S.MFGM
+351	phosphate works	a facility for producing fertilizer	has_hypernym;345	103315023-n;DGM_hyponym	S.MFGPH
+352	abandoned factory		has_hypernym;345	103316406-n;DGM_hyponym	S.MFGQ
+353	sugar refinery	a facility for converting raw sugar into refined sugar	has_hypernym;345	104350688-n;DGM_equivalent	S.MFGSG
+354	market	a place where goods are bought and sold at regular intervals		103461385-n;DGM_equivalent	S.MKT
+355	mill	a building housing machines for transforming, shaping, finishing, grinding, or extracting products	has_hypernym;345	103316406-n;DGM_equivalent	S.ML
+356	ore treatment plant	a facility for improving the metal content of ore by concentration	has_hypernym;345	103956922-n;DGM_hyponym	S.MLM
+357	olive oil mill	a mill where oil is extracted from olives	has_hypernym;345	103316406-n;DGM_hyponym	S.MLO
+358	sugar mill	a facility where sugar cane is processed into raw sugar	has_hypernym;345	103316406-n;DGM_hyponym	S.MLSG
+359	former sugar mill	a sugar mill no longer used as a sugar mill	has_hypernym;345	103316406-n;DGM_hyponym	S.MLSGQ
+360	sawmill	a mill where logs or lumber are sawn to specified shapes and sizes	has_hypernym;345	103697007-n;DGM_hyponym	S.MLSW
+361	windmill	a mill or water pump powered by wind	has_hypernym;345	104587559-n;DGM_equivalent	S.MLWND
+362	water mill	a mill powered by running water	has_hypernym;345	104561422-n;DGM_equivalent	S.MLWTR
+363	mine	a site where mineral ores are extracted from the ground by excavating surface pits and subterranean passages		103768346-n;DGM_equivalent	S.MN
+364	gold mine	a mine where gold ore, or alluvial gold is extracted	has_hypernym;363	103445120-n;DGM_equivalent	S.MNAU
+365	coal mine	a mine where coal is extracted	has_hypernym;363	103056368-n;DGM_equivalent	S.MNC
+366	chrome mine	a mine where chrome ore is extracted	has_hypernym;363	103768346-n;DGM_hyponym	S.MNCR
+367	copper mine	a mine where copper ore is extracted	has_hypernym;363	103768346-n;DGM_hyponym	S.MNCU
+368	iron mine	a mine where iron ore is extracted	has_hypernym;363	103768346-n;DGM_hyponym	S.MNFE
+369	monument	a commemorative structure or statue		103743902-n;DGM_equivalent	S.MNMT
+370	salt mine	a mine from which salt is extracted	has_hypernym;363	103768346-n;DGM_hyponym	S.MNN
+371	abandoned mine		has_hypernym;363	103768346-n;DGM_equivalent	S.MNQ
+372	quarry(-ies)	a surface mine where building stone or gravel and sand, etc. are extracted		103949442-n;DGM_equivalent	S.MNQR
+373	mole	a massive structure of masonry or large stones serving as a pier or breakwater		102894605-n;DGM_equivalent	S.MOLE
+374	mosque	a building for public Islamic worship	has_hypernym;258	103788195-n;DGM_equivalent	S.MSQE
+375	mission	a place characterized by dwellings, school, church, hospital and other facilities operated by a religious group for the purpose of providing charitable services and to propagate religion	has_hypernym;258	108403225-n;DGM_equivalent	S.MSSN
+376	abandoned mission		has_hypernym;375	108403225-n;DGM_hyponym	S.MSSNQ
+377	monastery	a building and grounds where a community of monks lives in seclusion	has_hypernym;258	103781244-n;DGM_equivalent	S.MSTY
+378	metro station	metro station (Underground, Tube, or M?tro) 		103757138-n;DGM_equivalent	S.MTRO
+379	museum	a building where objects of permanent interest in one or more of the arts and sciences are preserved and exhibited	has_hypernym;258	103800563-n;DGM_equivalent	S.MUS
+380	novitiate	a religious house or school where novices are trained	has_hypernym;258	103099454-n;DGM_hyponym	S.NOV
+381	nursery(-ies)	a place where plants are propagated for transplanting or grafting		103457902-n;DGM_hyponym	S.NSY
+382	observation point	a wildlife or scenic observation point		108677250-n;DGM_hyponym	S.OBPT
+383	observatory	a facility equipped for observation of atmospheric or space phenomena		103839671-n;DGM_equivalent	S.OBS
+384	radio observatory	a facility equipped with an array of antennae for receiving radio waves from space	has_hypernym;383	103839671-n;DGM_hyponym	S.OBSR
+385	oil pipeline junction	a section of an oil pipeline where two or more pipes join together	meronym;218	103605722-n;DGM_hyponym	S.OILJ
+386	abandoned oil well		hypernym;389	103845360-n;DGM_hyponym	S.OILQ
+387	oil refinery	a facility for converting crude oil into refined petroleum products		103844673-n;DGM_equivalent	S.OILR
+388	tank farm	a tract of land occupied by large, cylindrical, metal tanks in which oil or liquid petrochemicals are stored	meronym;218	108660817-n;DGM_equivalent	S.OILT
+389	oil well	a well from which oil may be pumped	has_hypernym;258	103845360-n;DGM_equivalent	S.OILW
+390	opera house	A theater designed chiefly for the performance of operas.	has_hypernym;258	103849814-n;DGM_equivalent	S.OPRA
+391	palace	a large stately house, often a royal or presidential residence	has_hypernym;258	103878066-n;DGM_equivalent	S.PAL
+392	pagoda	a tower-like storied structure, usually a Buddhist shrine	has_hypernym;258	103874965-n;DGM_equivalent	S.PGDA
+393	pier	a structure built out into navigable water on piles providing berthing for ships and recreation		103933529-n;DGM_equivalent	S.PIER
+394	parking lot	an area used for parking vehicles		108615638-n;DGM_equivalent	S.PKLT
+395	oil pumping station	a facility for pumping oil through a pipeline	meronym;218	104022708-n;DGM_hyponym	S.PMPO
+396	water pumping station	a facility for pumping water from a major well or through a pipeline	meronym;329	104022708-n;DGM_hyponym	S.PMPW
+397	post office	a public building in which mail is received, sorted and distributed	has_hypernym;258	108145553-n;DGM_equivalent	S.PO
+398	police post	a building in which police are stationed	has_hypernym;258	103977678-n;DGM_equivalent	S.PP
+399	abandoned police post		has_hypernym;398	103977678-n;DGM_hyponym	S.PPQ
+400	park gate	a controlled access to a park	meronym;184	108615149-n;DGM_equivalent	S.PRKGT
+401	park headquarters	a park administrative facility	meronym;184		S.PRKHQ
+402	prison	a facility for confining prisoners	has_hypernym;258	104005630-n;DGM_equivalent	S.PRN
+403	reformatory	a facility for confining, training, and reforming young law offenders	has_hypernym;258	104069777-n;DGM_equivalent	S.PRNJ
+404	abandoned prison		has_hypernym;402	104005630-n;DGM_hyponym	S.PRNQ
+405	power station	a facility for generating electric power	has_hypernym;345	103996655-n;DGM_equivalent	S.PS
+406	hydroelectric power station	a building where electricity is generated from water power	has_hypernym;345	104306080-n;DGM_hyponym	S.PSH
+407	border post	a post or station at an international boundary for the regulation of movement of people and goods		108624385-n;DGM_hyponym	S.PSTB
+408	customs post	a building at an international boundary where customs and duties are paid on goods		108624385-n;DGM_hyponym	S.PSTC
+409	patrol post	a post from which patrols are sent out		103763403-n;DGM_hyponym	S.PSTP
+410	pyramid	an ancient massive structure of square ground plan with four triangular faces meeting at a point and used for enclosing tombs		104029125-n;DGM_equivalent	S.PYR
+411	pyramids	ancient massive structures of square ground plan with four triangular faces meeting at a point and used for enclosing tombs		104029125-n;DGM_equivalent	S.PYRS
+412	quay	a structure of solid construction along a shore or bank which provides berthing for ships and which generally provides cargo handling facilities		104033082-n;DGM_equivalent	S.QUAY
+413	traffic circle	a road junction formed around a central circle about which traffic moves in one direction only		104465933-n;DGM_equivalent	S.RDCR
+414	golf course	a recreation field where golf is played		103446528-n;DGM_equivalent	S.RECG
+415	racetrack	a track where races are held		104037625-n;DGM_equivalent	S.RECR
+416	restaurant	A place where meals are served to the public		104081281-n;DGM_equivalent	S.REST
+417	store	a building where goods and/or services are offered for sale		104202417-n;DGM_equivalent	S.RET
+418	resthouse	a structure maintained for the rest and shelter of travelers		104081699-n;DGM_equivalent	S.RHSE
+419	rookery	a breeding place of a colony of birds or seals		108644426-n;DGM_equivalent	S.RKRY
+420	religious site	an ancient site of significant religious importance	has_hypernym;176	108585056-n;DGM_equivalent	S.RLG
+421	retreat	a place of temporary seclusion, especially for religious groups	has_hypernym;176	108643015-n;DGM_equivalent	S.RLGR
+422	ranch(es)	a large farm specializing in extensive grazing of livestock	has_hypernym;176	104052442-n;DGM_equivalent	S.RNCH
+423	railroad siding	a short track parallel to and joining the main track	meronym;227	104216106-n;DGM_equivalent	S.RSD
+424	railroad signal	a signal at the entrance of a particular section of track governing the movement of trains	meronym;227	111447319-n;DGM_hyponym	S.RSGNL
+425	resort	a specialized facility for vacation, health, or participation sports activities	has_hypernym;258	108640531-n;DGM_equivalent	S.RSRT
+426	railroad station	a facility comprising ticket office, platforms, etc. for loading and unloading train passengers and freight	has_hypernym;258	104049098-n;DGM_equivalent	S.RSTN
+427	abandoned railroad station		has_hypernym;426	104049098-n;DGM_hyponym	S.RSTNQ
+428	railroad stop	a place lacking station facilities where trains stop to pick up and unload passengers and freight		104049098-n;DGM_equivalent	S.RSTP
+429	abandoned railroad stop		has_hypernym;428	104049098-n;DGM_hyponym	S.RSTPQ
+430	ruin	a destroyed or decayed structure which is no longer functional		104118635-n;DGM_equivalent	S.RUIN
+431	school	building where instruction in one or more branches of knowledge takes place	has_hypernym;258	104146050-n;DGM_equivalent	S.SCH
+432	agricultural school	a school with a curriculum focused on agriculture	has_hypernym;432	108276720-n;DGM_hyponym	S.SCHA
+433	college	the grounds and buildings of an institution of higher learning	has_hypernym;432	103069752-n;DGM_equivalent	S.SCHC
+434	language school	Language Schools and Institutions	has_hypernym;432	108282950-n;DGM_equivalent	S.SCHL
+435	military school	a school at which military science forms the core of the curriculum	has_hypernym;432	108276720-n;DGM_hyponym	S.SCHM
+436	maritime school	a school at which maritime sciences form the core of the curriculum	has_hypernym;432	108276720-n;DGM_hyponym	S.SCHN
+437	technical school	post-secondary school with a specifically technical or vocational curriculum	has_hypernym;432	108276720-n;DGM_hyponym	S.SCHT
+438	State Exam Prep Centre	state exam preparation centres	has_hypernym;432	102993546-n;DGM_hyponym	S.SECP
+439	sheepfold	a fence or wall enclosure for sheep and other small herd animals		103376159-n;DGM_equivalent	S.SHPF
+440	shrine	a structure or place memorializing a person or religious concept		104210390-n;DGM_equivalent	S.SHRN
+441	storehouse	a building for storing goods, especially provisions		104329190-n;DGM_equivalent	S.SHSE
+442	sluice	a conduit or passage for carrying off surplus water from a waterbody, usually regulated by means of a sluice gate	has_hypernym;28	104244379-n;DGM_equivalent	S.SLCE
+443	sanatorium	a facility where victims of physical or mental disorders are treated		104133497-n;DGM_equivalent	S.SNTR
+444	spa	a resort area usually developed around a medicinal spring		108678615-n;DGM_equivalent	S.SPA
+445	spillway	a passage or outlet through which surplus water flows over, around or through a dam		104277034-n;DGM_equivalent	S.SPLY
+446	square	a broad, open, public area near the center of a town or city		108619620-n;DGM_equivalent	S.SQR
+447	stable	a building for the shelter and feeding of farm animals, especially horses	has_hypernym;258	104294879-n;DGM_equivalent	S.STBL
+448	stadium	a structure with an enclosure for athletic games with tiers of seats for spectators		104295881-n;DGM_equivalent	S.STDM
+449	scientific research base	a scientific facility used as a base from which research is carried out or monitored		104306080-n;DGM_hyponym	S.STNB
+450	coast guard station	a facility from which the coast is guarded by armed vessels		104306080-n;DGM_hyponym	S.STNC
+451	experiment station	a facility for carrying out experiments		104306080-n;DGM_hyponym	S.STNE
+452	forest station	a collection of buildings and facilities for carrying out forest management		104306080-n;DGM_hyponym	S.STNF
+453	inspection station	a station at which vehicles, goods, and people are inspected		104306080-n;DGM_hyponym	S.STNI
+454	meteorological station	a station at which weather elements are recorded		104306080-n;DGM_hyponym	S.STNM
+455	radio station	a facility for producing and transmitting information by radio waves		104044119-n;DGM_equivalent	S.STNR
+456	satellite station	a facility for tracking and communicating with orbiting satellites		104306080-n;DGM_hyponym	S.STNS
+457	whaling station	a facility for butchering whales and processing train oil		104306080-n;DGM_hyponym	S.STNW
+458	steps	stones or slabs placed for ease in ascending or descending a steep slope		104298171-n;DGM_equivalent	S.STPS
+459	sewage treatment plant	facility for the processing of sewage and/or wastewater	has_hypernym;345	103956922-n;DGM_hyponym	S.SWT
+460	theater	A building, room, or outdoor structure for the presentation of plays, films, or other dramatic performances	has_hypernym;258	104417809-n;DGM_equivalent	S.THTR
+461	tomb	a structure for interring bodies		103455033-n;DGM_equivalent	S.TMB
+462	temple	an edifice dedicated to religious worship	has_hypernym;258	104407435-n;DGM_equivalent	S.TMPL
+463	cattle dipping tank	a small artificial pond used for immersing cattle in chemically treated water for disease control		109397391-n;DGM_hyponym	S.TNKD
+464	tower	a high conspicuous structure, typically much higher than its diameter		104460130-n;DGM_equivalent	S.TOWR
+465	transit terminal	facilities for the handling of vehicular freight and passengers	has_hypernym;307	104412901-n;DGM_hyponym	S.TRANT
+466	triangulation station	a point on the earth whose position has been determined by triangulation	has_hypernym;176	104306080-n;DGM_hyponym	S.TRIG
+467	oil pipeline terminal	a tank farm or loading facility at the end of an oil pipeline	meronym;218	104412901-n;DGM_hyponym	S.TRMO
+468	temp work office	Temporary Work Offices	has_hypernym;307	108337324-n;DGM_hyponym	S.TWO
+469	university prep school	University Preparation Schools and Institutions	has_hypernym;432	108409969-n;DGM_equivalent	S.UNIP
+470	university	An institution for higher learning with teaching and research facilities constituting a graduate school and professional schools that award master's degrees and doctorates and an undergraduate division that awards bachelor's degrees.		104511002-n;DGM_equivalent	S.UNIV
+471	united states government establishment	a facility operated by the United States Government in Panama	has_hypernym;258	103315023-n;DGM_hyponym	S.USGE
+472	veterinary facility	a building or camp at which veterinary services are available	has_hypernym;307	103315023-n;DGM_hyponym	S.VETF
+473	wall	a thick masonry structure, usually enclosing a field or building, or forming the side of a structure		104546855-n;DGM_equivalent	S.WALL
+474	ancient wall	the remains of a linear defensive stone structure	has_hypernym;473	104051825-n;DGM_hyponym	S.WALLA
+475	weir	a small dam in a stream, designed to raise the water level or to divert stream flow through a desired channel		104571566-n;DGM_equivalent	S.WEIR
+476	wharf(-ves)	a structure of open rather than solid construction along a shore or a bank which provides berthing for ships and cargo-handling facilities		103933529-n;DGM_equivalent	S.WHRF
+477	wreck	the site of the remains of a wrecked vessel		114423870-n;DGM_equivalent	S.WRCK
+478	waterworks	a facility for supplying potable water through a water source and a system of pumps and filtration beds		104563790-n;DGM_equivalent	S.WTRW
+479	free trade zone	an area, usually a section of a port, where goods may be received and shipped free of customs duty and of most customs regulations	has_hypernym;16	101092643-n;DGM_equivalent	S.ZNF
+480	zoo	a zoological garden or park where wild animals are kept for exhibition		103745146-n;DGM_equivalent	S.ZOO
+481	asphalt lake	a small basin containing naturally occurring asphalt	has_hypernym;73	109215437-n;DGM_hyponym	T.ASPH
+482	atoll	a ring-shaped coral reef which has closely spaced islands on it encircling a lagoon		109210862-n;DGM_equivalent	T.ATOL
+483	bar	a shallow ridge or mound of coarse unconsolidated material in a stream channel, at the mouth of a stream, estuary, or lagoon and in the wave-break zone along coasts		109214060-n;DGM_equivalent	T.BAR
+484	beach	a shore zone of coarse unconsolidated sediment that extends from the low-water line to the highest reach of storm waves		109217230-n;DGM_equivalent	T.BCH
+485	beaches	a shore zone of coarse unconsolidated sediment that extends from the low-water line to the highest reach of storm waves		109217230-n;DGM_equivalent	T.BCHS
+486	badlands	an area characterized by a maze of very closely spaced, deep, narrow, steep-sided ravines, and sharp crests and pinnacles		109212572-n;DGM_equivalent	T.BDLD
+487	boulder field	a high altitude or high latitude bare, flat area covered with large angular rocks	has_hypernym;16	109227839-n;DGM_equivalent	T.BLDR
+488	blowhole	a hole in coastal rock through which sea water is forced by a rising tide or waves and spurted through an outlet into the air		104526241-n;DGM_equivalent	T.BLHL
+489	blowout	a small depression in sandy terrain, caused by wind erosion		109366017-n;DGM_hyponym	T.BLOW
+490	bench	a long, narrow bedrock platform bounded by steeper slopes above and below, usually overlooking a waterbody		109456207-n;DGM_equivalent	T.BNCH
+491	butte	a small, isolated, usually flat-topped hill with steep sides		109230202-n;DGM_equivalent	T.BUTE
+492	cape	a land area, more prominent than a point, projecting into the sea and marking a notable change in coastal direction		109233715-n;DGM_equivalent	T.CAPE
+493	cleft	a deep narrow slot, notch, or groove in a coastal cliff		109258715-n;DGM_equivalent	T.CFT
+494	caldera	a depression measuring kilometers across formed by the collapse of a volcanic mountain		109231117-n;DGM_equivalent	T.CLDA
+495	cliff	a high, steep to perpendicular slope overlooking a waterbody or lower area		109246464-n;DGM_equivalent	T.CLF
+496	canyon	a deep, narrow valley with steep sides cutting into a plateau or mountainous area		109233446-n;DGM_equivalent	T.CNYN
+497	cone	a conical landform composed of mud or volcanic material		113872592-n;DGM_hyponym	T.CONE
+498	corridor	a strip or area of land having significance as an access way		105248181-n;DGM_hyponym	T.CRDR
+499	cirque	a bowl-like hollow partially surrounded by cliffs or steep slopes at the head of a glaciated valley		109245515-n;DGM_equivalent	T.CRQ
+500	cirques	bowl-like hollows partially surrounded by cliffs or steep slopes at the head of a glaciated valley		109245515-n;DGM_equivalent	T.CRQS
+501	crater	a generally circular saucer or bowl-shaped depression caused by volcanic or meteorite explosive action		109259219-n;DGM_equivalent	T.CRTR
+502	cuesta	an asymmetric ridge formed on tilted strata		109409512-n;DGM_equivalent	T.CUET
+503	delta	a flat plain formed by alluvial deposits at the mouth of a stream		109264803-n;DGM_equivalent	T.DLTA
+504	depression	a low area surrounded by higher land and usually characterized by interior drainage		109366017-n;DGM_equivalent	T.DPR
+505	desert	a large area with little or no vegetation due to extreme environmental conditions		108505573-n;DGM_equivalent	T.DSRT
+506	dune	a wave form, ridge or star shape feature composed of sand		109270735-n;DGM_equivalent	T.DUNE
+507	divide	a line separating adjacent drainage basins		108679369-n;DGM_equivalent	T.DVD
+508	sandy desert	an extensive tract of shifting sand and sand dunes	has_hypernym;505	108505573-n;DGM_hyponym	T.ERG
+509	fan	a fan-shaped wedge of coarse alluvium with apex merging with a mountain stream bed and the fan spreading out at a low angle slope onto an adjacent plain		109193282-n;DGM_hyponym	T.FAN
+510	ford	a shallow part of a stream which can be crossed on foot or by land vehicle		109283623-n;DGM_equivalent	T.FORD
+511	fissure	a crack associated with volcanism		113907272-n;DGM_hyponym	T.FSR
+512	gap	a low place in a ridge, not used for transportation		109249034-n;DGM_equivalent	T.GAP
+513	gorge	a short, narrow, steep-sided section of a stream valley		109290444-n;DGM_equivalent	T.GRGE
+514	headland	a high projection of land extending into a large body of water beyond the line of the coast		109399592-n;DGM_equivalent	T.HDLD
+515	hill	a rounded elevation of limited extent rising above the surrounding land with local relief of less than 300m		109303008-n;DGM_equivalent	T.HLL
+516	hills	rounded elevations of limited extent rising above the surrounding land with local relief of less than 300m		109303008-n;DGM_equivalent	T.HLLS
+517	hammock	a patch of ground, distinct from and slightly above the surrounding plain or wetland. Often occurs in groups		109326662-n;DGM_equivalent	T.HMCK
+518	rock desert	a relatively sand-free, high bedrock plateau in a hot desert, with or without a gravel veneer	has_hypernym;505	108505573-n;DGM_hyponym	T.HMDA
+519	interfluve	a relatively undissected upland between adjacent stream valleys		109302616-n;DGM_hyponym	T.INTF
+520	island	a tract of land, smaller than a continent, surrounded by water at high water		109316454-n;DGM_equivalent	T.ISL
+521	islet	small island, bigger than rock, smaller than island.	has_hypernym;520	109316454-n;DGM_hyponym	T.ISLET
+522	artificial island	an island created by landfill or diking and filling in a wetland, bay, or lagoon	has_hypernym;520	109316454-n;DGM_hyponym	T.ISLF
+523	mangrove island	a mangrove swamp surrounded by a waterbody	has_hypernym;520	112345899-n;DGM_equivalent	T.ISLM
+524	islands	tracts of land, smaller than a continent, surrounded by water at high water		109316454-n;DGM_equivalent	T.ISLS
+525	land-tied island	a coastal island connected to the mainland by barrier beaches, levees or dikes	has_hypernym;520	109316454-n;DGM_hyponym	T.ISLT
+526	section of island		meronym;520		T.ISLX
+527	isthmus	a narrow strip of land connecting two larger land masses and bordered by water		109319604-n;DGM_hyponym	T.ISTH
+528	karst area	a distinctive landscape developed on soluble rock such as limestone characterized by sinkholes, caves, disappearing streams, and underground drainage		108497294-n;DGM_hyponym	T.KRST
+529	lava area	an area of solidified lava		114930989-n;DGM_equivalent	T.LAVA
+530	levee	a natural low embankment bordering a distributary or meandering stream; often built up artificially to control floods		103658635-n;DGM_equivalent	T.LEV
+531	mesa	a flat-topped, isolated elevation with steep slopes on all sides, less extensive than a plateau		109351905-n;DGM_equivalent	T.MESA
+532	mound	a low, isolated, rounded hill	has_hypernym;515	109326662-n;DGM_equivalent	T.MND
+533	moraine	a mound, ridge, or other accumulation of glacial till		109358907-n;DGM_equivalent	T.MRN
+534	mountain	an elevation standing high above the surrounding area with small summit area, steep slopes and local relief of 300m or more		109359803-n;DGM_equivalent	T.MT
+535	mountains	a mountain range or a group of mountains or high ridges		109359803-n;DGM_equivalent	T.MTS
+536	meander neck	a narrow strip of land between the two limbs of a meander loop at its narrowest point		109367733-n;DGM_equivalent	T.NKM
+537	nunatak	a rock or mountain peak protruding through glacial ice		109289331-n;DGM_hyponym	T.NTK
+538	nunataks	rocks or mountain peaks protruding through glacial ice		109289331-n;DGM_hyponym	T.NTKS
+539	pan	a near-level shallow, natural depression or basin, usually containing an intermittent lake, pond, or pool		109366017-n;DGM_equivalent	T.PAN
+540	pans	a near-level shallow, natural depression or basin, usually containing an intermittent lake, pond, or pool		109366017-n;DGM_equivalent	T.PANS
+541	pass	a break in a mountain range or other high obstruction, used for transportation from one side to the other [See also gap]		109386842-n;DGM_equivalent	T.PASS
+542	peninsula	an elongate area of land projecting into a body of water and nearly surrounded by water		109388848-n;DGM_equivalent	T.PEN
+543	section of peninsula		meronym;542		T.PENX
+544	peak	a pointed elevation atop a mountain, ridge, or other hypsographic feature		108617963-n;DGM_equivalent	T.PK
+545	peaks	pointed elevations atop a mountain, ridge, or other hypsographic features		108617963-n;DGM_equivalent	T.PKS
+546	plateau	an elevated plain with steep slopes on one or more sides, and often with incised streams		109453008-n;DGM_equivalent	T.PLAT
+547	section of plateau		meronym;546		T.PLATX
+548	polder	an area reclaimed from the sea by diking and draining		109397001-n;DGM_equivalent	T.PLDR
+549	plain	an extensive area of comparatively level to gently undulating land, lacking surface irregularities, and usually adjacent to a higher area		109393605-n;DGM_equivalent	T.PLN
+550	section of plain		meronym;549		T.PLNX
+551	promontory(-ies)	a bluff or prominent hill overlooking or projecting into a lowland		109399592-n;DGM_equivalent	T.PROM
+552	point	a tapering piece of land projecting into a body of water, less prominent than a cape	has_hypernym;551	109396465-n;DGM_equivalent	T.PT
+553	points	tapering pieces of land projecting into a body of water, less prominent than a cape	has_hypernym;551	109396465-n;DGM_equivalent	T.PTS
+554	beach ridge	a ridge of sand just inland and parallel to the beach, usually in series		109409512-n;DGM_hyponym	T.RDGB
+555	ridge	a long narrow elevation with steep sides, and a more or less continuous crest		109409512-n;DGM_hyponym	T.RDGE
+556	stony desert	a desert plain characterized by a surface veneer of gravel and stones	has_hypernym;505	108505573-n;DGM_hyponym	T.REG
+557	rock	a conspicuous, isolated rocky mass		109416076-n;DGM_equivalent	T.RK
+558	rockfall	an irregular mass of fallen rock at the base of a cliff or steep slope		109416076-n;DGM_hyponym	T.RKFL
+559	rocks	conspicuous, isolated rocky masses		109416076-n;DGM_equivalent	T.RKS
+560	sand area	a tract of land covered with sand		108497294-n;DGM_hyponym	T.SAND
+561	dry stream bed	a channel formerly containing the water of a stream	meronym;153	109217638-n;DGM_hyponym	T.SBED
+562	escarpment	a long line of cliffs or steep slopes separating level surfaces above and below		109274152-n;DGM_equivalent	T.SCRP
+563	saddle	a broad, open pass crossing a ridge or between hills or mountains		109418810-n;DGM_equivalent	T.SDL
+564	shore	a narrow zone bordering a waterbody which covers and uncovers at high and low water, respectively		109433442-n;DGM_equivalent	T.SHOR
+565	sinkhole	a small crater-shape depression in a karst area		109435739-n;DGM_equivalent	T.SINK
+566	slide	a mound of earth material, at the base of a slope and the associated scoured area		107404944-n;DGM_equivalent	T.SLID
+567	slope	a surface with a relatively uniform slope angle		109437454-n;DGM_equivalent	T.SLP
+568	spit	a narrow, straight or curved continuation of a beach into a waterbody		109442595-n;DGM_equivalent	T.SPIT
+569	spur	a subordinate ridge projecting outward from a hill, mountain or other elevation		113912839-n;DGM_hyponym	T.SPUR
+570	talus slope	a steep concave slope formed by an accumulation of loose rock fragments at the base of a cliff or steep slope		109454153-n;DGM_equivalent	T.TAL
+571	interdune trough	a long wind-swept trough between parallel longitudinal dunes		109462773-n;DGM_hyponym	T.TRGD
+572	terrace	a long, narrow alluvial platform bounded by steeper slopes above and below, usually overlooking a waterbody		109456207-n;DGM_equivalent	T.TRR
+573	upland	an extensive interior region of high land with low to moderate surface relief		109302616-n;DGM_equivalent	T.UPLD
+574	valley	an elongated depression usually traversed by a stream		109468604-n;DGM_equivalent	T.VAL
+575	hanging valley	a valley the floor of which is notably higher than the valley or shore to which it leads; most common in areas that have been glaciated	has_hypernym;574	109468604-n;DGM_hyponym	T.VALG
+576	valleys	elongated depressions usually traversed by a stream		109468604-n;DGM_equivalent	T.VALS
+577	section of valley		meronym;576		T.VALX
+578	volcano	a conical elevation composed of volcanic materials with a crater at the top		109472597-n;DGM_equivalent	T.VLC
+579	apron	a gentle slope, with a generally smooth surface, particularly found around groups of islands and seamounts		109437454-n;DGM_hyponym	U.APNU
+580	arch	a low bulge around the southeastern end of the island of Hawaii		113886133-n;DGM_hyponym	U.ARCU
+581	arrugado	an area of subdued corrugations off Baja California		113902229-n;DGM_equivalent	U.ARRU
+582	borderland	a region adjacent to a continent, normally occupied by or bordering a shelf, that is highly irregular with depths well in excess of those typical of a shelf		108513163-n;DGM_equivalent	U.BDLU
+583	banks	elevations, typically located on a shelf, over which the depth of water is relatively shallow but sufficient for safe surface navigation		109213565-n;DGM_equivalent	U.BKSU
+584	bank	an elevation, typically located on a shelf, over which the depth of water is relatively shallow but sufficient for safe surface navigation		109456207-n;DGM_equivalent	U.BNKU
+585	basin	a depression more or less equidimensional in plan and of variable extent		109215437-n;DGM_equivalent	U.BSNU
+586	cordillera	an entire mountain system including the subordinate ranges, interior plateaus, and basins		109403734-n;DGM_equivalent	U.CDAU
+587	canyons	relatively narrow, deep depressions with steep sides, the bottom of which generally has a continuous slope		109233446-n;DGM_equivalent	U.CNSU
+588	canyon	a relatively narrow, deep depression with steep sides, the bottom of which generally has a continuous slope		109233446-n;DGM_equivalent	U.CNYU
+589	continental rise	a gentle slope rising from oceanic depths towards the foot of a continental slope		109206985-n;DGM_hyponym	U.CRSU
+590	deep	a localized deep area within the confines of a larger feature, such as a trough, basin or trench		109461315-n;DGM_equivalent	U.DEPU
+591	shelf edge	a line along which there is a marked increase of slope at the outer margin of a continental shelf or island shelf		109337253-n;DGM_equivalent	U.EDGU
+592	escarpment (or scarp)	an elongated and comparatively steep slope separating flat or gently sloping areas		109274152-n;DGM_equivalent	U.ESCU
+593	fan	a relatively smooth feature normally sloping away from the lower termination of a canyon or canyon system		109233446-n;DGM_equivalent	U.FANU
+594	flat	a small level or nearly level area		109281411-n;DGM_equivalent	U.FLTU
+595	fracture zone	an extensive linear zone of irregular topography of the sea floor, characterized by steep-sided or asymmetrical ridges, troughs, or escarpments		109376526-n;DGM_meronym	U.FRZU
+596	furrow	a closed, linear, narrow, shallow depression		103406966-n;DGM_equivalent	U.FURU
+597	gap	a narrow break in a ridge or rise		109249034-n;DGM_equivalent	U.GAPU
+598	gully	a small valley-like feature		109300306-n;DGM_equivalent	U.GLYU
+599	hill	an elevation rising generally less than 500 meters		109303008-n;DGM_equivalent	U.HLLU
+600	hills	elevations rising generally less than 500 meters		109303008-n;DGM_equivalent	U.HLSU
+601	hole	a small depression of the sea floor		109304750-n;DGM_equivalent	U.HOLU
+602	knoll	an elevation rising generally more than 500 meters and less than 1,000 meters and of limited extent across the summit		109326662-n;DGM_equivalent	U.KNLU
+603	knolls	elevations rising generally more than 500 meters and less than 1,000 meters and of limited extent across the summits		109326662-n;DGM_equivalent	U.KNSU
+604	ledge	a rocky projection or outcrop, commonly linear and near shore		109337253-n;DGM_equivalent	U.LDGU
+605	levee	an embankment bordering a canyon, valley, or seachannel		103658635-n;DGM_equivalent	U.LEVU
+606	mesa	an isolated, extensive, flat-topped elevation on the shelf, with relatively steep sides		109351905-n;DGM_equivalent	U.MESU
+607	mound	a low, isolated, rounded hill		109326662-n;DGM_equivalent	U.MNDU
+608	moat	an annular depression that may not be continuous, located at the base of many seamounts, islands, and other isolated elevations		103776050-n;DGM_equivalent	U.MOTU
+609	mountain	a well-delineated subdivision of a large and complex positive feature		109359803-n;DGM_equivalent	U.MTU
+610	peaks	prominent elevations, part of a larger feature, either pointed or of very limited extent across the summit		108617963-n;DGM_equivalent	U.PKSU
+611	peak	a prominent elevation, part of a larger feature, either pointed or of very limited extent across the summit		108617963-n;DGM_equivalent	U.PKU
+612	plain	a flat, gently sloping or nearly level region		103961939-n;DGM_equivalent	U.PLNU
+613	plateau	a comparatively flat-topped feature of considerable extent, dropping off abruptly on one or more sides		109453008-n;DGM_equivalent	U.PLTU
+614	pinnacle	a high tower or spire-shaped pillar of rock or coral, alone or cresting a summit		108619457-n;DGM_equivalent	U.PNLU
+615	province	a region identifiable by a group of similar physiographic features whose characteristics are markedly in contrast with surrounding areas		109376526-n;DGM_meronym	U.PRVU
+616	ridge	a long narrow elevation with steep sides		109409512-n;DGM_equivalent	U.RDGU
+617	ridges	long narrow elevations with steep sides		109409512-n;DGM_equivalent	U.RDSU
+618	reefs	surface-navigation hazards composed of consolidated material		109406793-n;DGM_equivalent	U.RFSU
+619	reef	a surface-navigation hazard composed of consolidated material		109406793-n;DGM_equivalent	U.RFU
+620	rise	a broad elevation that rises gently, and generally smoothly, from the sea floor		109366317-n;DGM_equivalent	U.RISU
+621	seachannel	a continuously sloping, elongated depression commonly found in fans or plains and customarily bordered by levees on one or two sides		109366017-n;DGM_hyponym	U.SCNU
+622	seachannels	continuously sloping, elongated depressions commonly found in fans or plains and customarily bordered by levees on one or two sides		109366017-n;DGM_hyponym	U.SCSU
+623	saddle	a low part, resembling in shape a saddle, in a ridge or between contiguous seamounts		109418810-n;DGM_equivalent	U.SDLU
+624	shelf	a zone adjacent to a continent (or around an island) that extends from the low water line to a depth at which there is usually a marked increase of slope towards oceanic depths		109337253-n;DGM_equivalent	U.SHFU
+625	shoal	a surface-navigation hazard composed of unconsolidated material		109433312-n;DGM_equivalent	U.SHLU
+626	shoals	hazards to surface navigation composed of unconsolidated material		109433312-n;DGM_equivalent	U.SHSU
+627	shelf valley	a valley on the shelf, generally the shoreward extension of a canyon		109337253-n;DGM_equivalent	U.SHVU
+628	sill	the low part of a gap or saddle separating basins		109435232-n;DGM_equivalent	U.SILU
+629	slope	the slope seaward from the shelf edge to the beginning of a continental rise or the point where there is a general reduction in slope		109437454-n;DGM_equivalent	U.SLPU
+630	seamounts	elevations rising generally more than 1,000 meters and of limited extent across the summit		109427752-n;DGM_equivalent	U.SMSU
+631	seamount	an elevation rising generally more than 1,000 meters and of limited extent across the summit		109427752-n;DGM_equivalent	U.SMU
+632	spur	a subordinate elevation, ridge, or rise projecting outward from a larger feature		113912839-n;DGM_hyponym	U.SPRU
+633	terrace	a relatively flat horizontal or gently inclined surface, sometimes long and narrow, which is bounded by a steeper ascending slope on one side and by a steep descending slope on the opposite side		109456207-n;DGM_equivalent	U.TERU
+634	tablemounts (or guyots)	seamounts having a comparatively smooth, flat top		109300559-n;DGM_equivalent	U.TMSU
+635	tablemount (or guyot)	a seamount having a comparatively smooth, flat top		109300559-n;DGM_equivalent	U.TMTU
+636	tongue	an elongate (tongue-like) extension of a flat sea floor into an adjacent higher feature		109442595-n;DGM_equivalent	U.TNGU
+637	trough	a long depression of the sea floor characteristically flat bottomed and steep sided, and normally shallower than a trench		109462773-n;DGM_equivalent	U.TRGU
+638	trench	a long, narrow, characteristically very deep and asymmetrical depression of the sea floor, with relatively steep sides		109461315-n;DGM_equivalent	U.TRNU
+639	valley	a relatively shallow, wide depression, the bottom of which usually has a continuous gradient		109468604-n;DGM_equivalent	U.VALU
+640	valleys	a relatively shallow, wide depression, the bottom of which usually has a continuous gradient		109468604-n;DGM_equivalent	U.VLSU
+641	bush(es)	a small clump of conspicuous bushes in an otherwise bare area		108438223-n;DGM_equivalent	V.BUSH
+642	cultivated area	an area under cultivation		108497294-n;DGM_hyponym	V.CULT
+643	forest	an area dominated by tree vegetation		109284015-n;DGM_equivalent	V.FRST
+644	fossilized forest	a forest fossilized by geologic processes and now exposed at the earth's surface		108438533-n;DGM_hyponym	V.FRSTF
+645	grassland	an area dominated by grass vegetation		108598301-n;DGM_equivalent	V.GRSLD
+646	coconut grove	a planting of coconut trees		103463832-n;DGM_hyponym	V.GRVC
+647	olive grove	a planting of olive trees		103463832-n;DGM_hyponym	V.GRVO
+648	palm grove	a planting of palm trees		103463832-n;DGM_hyponym	V.GRVP
+649	pine grove	a planting of pine trees		103463832-n;DGM_hyponym	V.GRVPN
+650	heath	an upland moor or sandy area dominated by low shrubby vegetation including heather		108504851-n;DGM_equivalent	V.HTH
+651	meadow	a small, poorly drained area dominated by grassy vegetation		108570634-n;DGM_equivalent	V.MDW
+652	orchard	a planting of fruit or nut trees		103463832-n;DGM_equivalent	V.OCH
+653	scrubland	an area of low trees, bushes, and shrubs stunted by some environmental limitation		108645104-n;DGM_equivalent	V.SCRB
+654	tree	a conspicuous tree used as a landmark		113104059-n;DGM_equivalent	V.TREE
+655	tundra	a marshy, treeless, high latitude plain, dominated by mosses, lichens, and low shrub vegetation under permafrost conditions		109463226-n;DGM_equivalent	V.TUND
+656	vineyard	a planting of grapevines		104536038-n;DGM_equivalent	V.VIN
+657	vineyards	plantings of grapevines		104536038-n;DGM_equivalent	V.VINS

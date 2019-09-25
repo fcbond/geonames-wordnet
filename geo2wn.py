@@ -9,6 +9,19 @@
 from collections import defaultdict as dd
 from xml.sax.saxutils import escape
 from iso639 import languages
+import argparse
+parser = argparse.ArgumentParser()
+
+
+parser.add_argument(
+    '-l', '--languages',  # either of this switches
+    nargs='+',       # one or more parameters to this switch
+    type=str,        # /parameters/ are ints
+    dest='lgs',     # store in 'list'.
+    help = 'make wordenets for these languages (iso 639): e.g., en ja zh',
+    default=['en'],      # since we're not specifying required.
+)
+parser.parse_args()
 
 #import pinyin
 prefix='gnwn-'
@@ -27,7 +40,7 @@ def qe(data):
 
 
 
-lgs= ['eu', 'bg', 'my', 'ca', 'hr', 'nl', 'et', 'fi', 'gl', 'ga', 'it', 'pt', 'sl', 'es', 'th', 'ro',  'ja', 'pl', 'id', 'de', 'zh', 'ar', 'en', 'fa', 'hi', 'ms', 'mr', 'sa', 'tr', 'is', 'he', 'sq', 'nn', 'no', 'da', 'lt', 'xh', 'zu', 've', 'tn'   ]
+#lgs= ['eu', 'bg', 'my', 'ca', 'hr', 'nl', 'et', 'fi', 'gl', 'ga', 'it', 'pt', 'sl', 'es', 'th', 'ro',  'ja', 'pl', 'id', 'de', 'zh', 'ar', 'en', 'fa', 'hi', 'ms', 'mr', 'sa', 'tr', 'is', 'he', 'sq', 'nn', 'no', 'da', 'lt', 'xh', 'zu', 've', 'tn'   ]
 #lgs= ['ja', 'pl', 'zh', 'id', 'de','zh', 'ar', 'en']
 #lgs= ['ja', 'en']
 
